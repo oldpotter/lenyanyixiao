@@ -26,6 +26,7 @@
 * [第六讲 ： 生命中真正的提升](untitled-6/README.md)
   * [海浪怎样知道它是大海](untitled-6/untitled-7.md)
   * [诸法所生，唯心所现](untitled-6/untitled-8.md)
+  * [意识辨别和觉知辨别](untitled-6/yi-shi-bian-bie-he-jue-zhi-bian-bie.md)
 * [第七讲：  实相，看见就是自由](untitled-10/README.md)
   * [禅医与“非自然性”](untitled-10/untitled-11.md)
   * [为何你“懂”了佛陀，却不懂阿难？](untitled-10/wei-he-ni-dong-le-fo-que-bu-dongenan.md)
