@@ -93,7 +93,7 @@
   * [每一天都要活成崭新的一天](untitled-13/mei-yi-tian-du-yao-huo-cheng-zhan-xin-de-yi-tian.md)
   * [生命真正的精彩](untitled-13/sheng-ming-zhen-zheng-de-jing-cai.md)
   * [你是否能看穿生活中的种种套路](untitled-13/ni-shi-fou-neng-kan-chuan-sheng-huo-zhong-de-zhong-zhong-tao-lu.md)
-* [第十七讲](untitled-14/README.md)
+* [第十七讲：洞察一切的智慧与力量（二）](untitled-14/README.md)
   * [为什么说困住你的障碍都是假的？](untitled-14/untitled-15.md)
   * [整个世界都会配合你，活出生命的精彩](untitled-14/untitled-19.md)
   * [越来越多的宅男宅女是怎么回事？](untitled-14/untitled-20.md)
